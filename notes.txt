@@ -1,0 +1,7 @@
+go to last class App.js run it
+
+open the nkrok.exe and run the command
+
+paste the link in code
+
+
